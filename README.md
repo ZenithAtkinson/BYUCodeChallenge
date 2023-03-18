@@ -4,8 +4,11 @@ I also included my main file.
 I used CLion, and included IOStream and map, nothing else.
 I have some comments in my code showing my thinking process, resources and notes, any unused code, and how different portions of the code work.
 
-I spent about 30 minutes brainstorming / creating the skeleton of my file, and then another 2 hours finalizing the math and the code.
-I spent 36 minutes attempting to create a way to reject unrecognized roman characters, but realized it would take too long.
+The code asks you to input a roman numeral which it then coverts to a decimal number.
+Then, it asks you to input a decimal number which it converts into a roman numeral.
+
+I spent about 30 minutes brainstorming / creating the skeleton of my file, and then two hours finalizing the math and the code.
+I spent 36 minutes attempting to create a way to reject unrecognized roman characters, but realized it would could take too long.
 That was the end of my coding process, a little over 3 hours. 
 
 After that, it took me almost an hour to upload everything to GitHub, along with downloading homebrew and using mingw-w64 to upload a windows .exe file.
